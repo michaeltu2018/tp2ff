@@ -8,11 +8,11 @@ To learn any new skill or gain expertise you need to practice, practice, practic
 
 But here's what you might not know: scientific research shows that the quality of your practice is just as important as the quantity.
 
-And, more interestingly, these scientists also believe that **expert-level performance is primarily the result of expert-level practice** NOT duce to innate talent.
+And, more interestingly, these scientists also believe that **expert-level performance is primarily the result of expert-level practice** NOT due to innate talent.
 
 **This concept is known as *deliberate practice*, and it's incredibly powerful.**
 
-First,let's look at what the experts have to say. This is from K.Anders Ericsson, a psychologist and scientific researcher out of Florida State University in the paper titled **The Role of Deliberate Practice in the Acquisition of Expert Performance**:
+First, let's look at what the experts have to say. This is from K.Anders Ericsson, a psychologist and scientific researcher out of Florida State University in the paper titled **The Role of Deliberate Practice in the Acquisition of Expert Performance**:
 
 >People believe that because expert performance is qualitatively different from normal performance the expert performer must be endowed with characteristics qualitatively different from those of normal adults. This view had discouraged scientists from systematically examining expert performers and accounting for their performance in terms of the laws and principles of general psychology.
 
@@ -34,7 +34,7 @@ Experts then, aren't people with freakish natural abilities in a particular doma
 
 In other words, it's not about what you're born with. It's about how *consistently and deliberately* you can work to improve your performance.
 
-The importance of a few obvious generic differences like height can't be denied within some areas of expertise (basketball or horse jockeying, for example), but in most other areas motivation and deliberate practice can overcome even differences in cognitive abilities(brain power).    
+The importance of a few obvious generic differences like height can't be denied within some areas of expertise (basketball or horse jockeying, for example), but in most other areas motivation and deliberate practice can overcome even differences in cognitive abilities (brain power).    
 
 ## Introducing Deliberate Practice
 
